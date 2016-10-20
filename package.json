@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/martindale/soundtracker",
   "dependencies": {
-    "maki": "git://github.com/martindale/maki",
+    "maki": "git://github.com/martindale/maki#community",
     "restler": "^3.4.0"
   }
 }
